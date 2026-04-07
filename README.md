@@ -32,4 +32,4 @@
 * **Python** — бэкенд‑сервер;
 * **MySQL** — база данных;
 
-
+APK - https://drive.google.com/file/d/1QxVPRfbq0YAv-0yYHY_es6DUvSR0o24e/view?usp=drive_link
